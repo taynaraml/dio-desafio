@@ -1,0 +1,8 @@
+blob:
+tipo, tamanho, \0, conteúdo. -metadados tem (SHA1)
+
+tree:
+blob e nome do arquivo. - estrutura de onde estaão localizados esses arquivos.  -metadados tem (SHA1)
+
+commit:
+tree, parente (um commit antes dele), autor, mensagem, timestamp (carimbo de tempo- hora/data)-metadados tem (SHA1)

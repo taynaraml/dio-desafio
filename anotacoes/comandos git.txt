@@ -1,0 +1,29 @@
+-a : arquivos ocultos
+
+transformar para commit:
+git add *- todos os arquivos 
+git add - arquivo especifico 
+ git commit -m "commit inicial" 
+
+
+tracked:
+untracked- arquivo recem criado, ainda não se sabe da sua existencia. 
+unmodified- arquivos que não foram modificados.
+modified- arquivos que foram modificados. 
+straged-aguardando para executar uma ação.- se tornar um commit
+volta ao unmodified- CICLO	
+
+working directory- staging area (alterna)
+após o commit vai para o local repository- dai pode ir para o servidor (remote repository)
+
+git status - status 
+ 
+mv nome_arquivo ./ local - mover um arquivo
+
+git remote add origin --- git remote push origin master- adicionar no git 
+
+pull e push 
+
+git clone url - clonar codigo do github
+
+atualizar um arquivo clonado do git: git push origin main 

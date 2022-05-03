@@ -1,0 +1,17 @@
+dir- entrar na pasta 
+
+entrar em uma pasta especifica ex: cd /e depois dir 
+ 
+voltar - cd.. 
+
+limpar tela- cls- clear scream
+
+mkdir (make)- criar pasta
+
+"silence on success"
+
+echo- printa algo no terminal 
+
+del- deletar apenas arquivos e não pasta 
+
+rmdir nome da pasta /S /Q- deletar pasta e seus arquivos 
